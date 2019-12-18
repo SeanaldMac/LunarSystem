@@ -1,0 +1,2 @@
+# LunarSystem
+A program that is supposed to model the Solar System program that Stony Brook uses. This system contains courses that students could register for, if the user logged in as a student. Courses can also be viewed by the user if they log in as a registrar and they can also see what a student's schedule looks like. It is set up with arrays and Hash maps and designed for registrars to create courses and register new students and for students to choose classes. Also, an existing database of courses and students can be imported and exported by text file.
